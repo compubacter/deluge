@@ -27,6 +27,8 @@ Install with pip:
 Unfortunately due to move to GTK3 and Python 3 there is no installer package currently
 available for Windows.
 
+An unofficial installer can be found [here]
+
 Intrepid users can install Deluge from separate packages as detailed in [issue #3201].
 
 ## <i class="fa fa-apple"></i> macOS
@@ -53,3 +55,4 @@ There is no `.app` package currently for macOS, but can try Deluge with [Homebre
 [python 3.6]: https://www.python.org/downloads/release/python-368/
 [gvsbuild]: https://ci.appveyor.com/api/buildjobs/b0y2sttcq3t1071q/artifacts/gvsbuild-vs14-x64.tar.gz
 [issue #3201]: https://dev.deluge-torrent.org/ticket/3201#comment:9
+[here]: https://drive.google.com/drive/folders/1bCwij_GEy8nhqR6EynXYY_Yl7XuWYpVT
